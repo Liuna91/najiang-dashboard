@@ -1,0 +1,19 @@
+{
+  "name": "娜jiang的工作台",
+  "short_name": "娜jiang",
+  "description": "娜jiang的个人工作台",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f0f6fc",
+  "theme_color": "#fff",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
